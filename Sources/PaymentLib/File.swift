@@ -14,4 +14,9 @@ public struct Appo {
     public func getName() -> String {
         return "nome"
     }
+    
+    public func getNames() -> [String] {
+        return ["nome"]
+    }
+
 }
