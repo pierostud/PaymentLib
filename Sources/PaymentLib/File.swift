@@ -9,6 +9,8 @@ import Foundation
 
 
 public struct Appo {
+    public init() {}
+    
     public func getName() -> String {
         return "nome"
     }
